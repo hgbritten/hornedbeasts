@@ -17,7 +17,7 @@ function Header() {
     <h1>
       Horned Beasts
     </h1>
-  )
+  );
 }
 
 function Footer() {
@@ -25,7 +25,7 @@ function Footer() {
     <h1>
       By: Hunter Britten
     </h1>
-  )
+  );
 }
 
 export default App;
