@@ -10,7 +10,7 @@ function App() {
     <Container fluid>
       <Navbar expand="lg" variant="light" bg="light">
         <Container>
-          <Navbar.Brand href="#">Horned Beasts</Navbar.Brand>
+          <Navbar.Brand href="#" id="hornhead">Horned Beasts</Navbar.Brand>
         </Container>
       </Navbar>
 
@@ -27,7 +27,7 @@ function App() {
       </CardColumns>
       <Navbar expand="lg" variant="light" bg="light">
         <Container>
-          <Navbar.Brand href="#">Pick your favorites!</Navbar.Brand>
+          <Navbar.Brand href="#" id="pick">Pick your favorites!</Navbar.Brand>
         </Container>
       </Navbar>
     </Container>

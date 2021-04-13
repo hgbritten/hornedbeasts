@@ -68,3 +68,36 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+#### Display images
+Number and name of feature: 1 Display images
+
+Estimate of time needed to complete: 30 min
+
+Start time: 1:30
+
+Finish time: 2:30
+
+Actual time needed to complete: 1 hour
+#### Allow users to vote for their favorite beast
+Number and name of feature: 2 allow picks
+
+Estimate of time needed to complete: 30 min
+
+Start time: 1:30
+
+Finish time: 2:30
+
+Actual time needed to complete: 1 hour
+#### Bootstrap
+Number and name of feature: 3 Bootstrap
+
+Estimate of time needed to complete: 30 min
+
+Start time: 1:30
+
+Finish time: 2:30
+
+Actual time needed to complete: 1 hour
+
+This all was completed at the same time. Every time I had an issue React App would die so I just did it all at once. Bootstrap with all the images made this really simple
