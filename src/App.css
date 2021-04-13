@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+#hornhead {
+  background-color: rgb(214, 214, 214);
+  margin: 0 auto;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+#pick {
+  background-color: rgb(214, 214, 214);
+  margin: 0 auto;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
