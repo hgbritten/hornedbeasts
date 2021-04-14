@@ -101,3 +101,14 @@ Finish time: 2:30
 Actual time needed to complete: 1 hour
 
 This all was completed at the same time. Every time I had an issue React App would die so I just did it all at once. Bootstrap with all the images made this really simple
+
+#### Display Modal
+Number and name of feature: 4 Display Modal
+
+Estimate of time needed to complete: 1 hour
+
+Start time: 1:15
+
+Finish time: 3:00
+
+Actual time needed to complete: 1:45
