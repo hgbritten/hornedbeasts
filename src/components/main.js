@@ -44,7 +44,7 @@ class LikeableBeast extends Component {
     return (
       <>
         <PopModal
-          showModal={this.state.showModal} closeModalHandler={this.closeModalHandler} title={this.props.title}
+          showModal={this.state.showModal} handle={this.closeModalHandler} title={this.props.title}
           description={this.props.description}
           imgUrl={this.props.imgUrl}>
         </PopModal>
