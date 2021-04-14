@@ -50,3 +50,7 @@
   padding-left: 1rem;
   padding-right: 1rem;
 }
+
+#modalwidth {
+  max-width: 300px;
+}
