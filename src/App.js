@@ -10,11 +10,13 @@ import React from 'react';
 class App extends React.Component {
   render() {
     return (
-      <Container fluid>
-        <Header />
-        <Main />
-        <Footer />
-      </Container>
+      <>
+        <Container fluid>
+          <Header />
+          <Main />
+          <Footer />
+        </Container>
+      </>
     );
   }
 }
