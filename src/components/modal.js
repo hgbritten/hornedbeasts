@@ -10,7 +10,7 @@ class PopModal extends Component {
   render() {
     return (
 
-      <Modal show={this.props.showModal} onHide={this.props.closeModalHandler}>
+      <Modal show={this.props.showModal} onHide={this.props.handle}>
         <Modal.Dialog>
           <Modal.Header closeButton>
             <Modal.Title>{this.props.title}</Modal.Title>

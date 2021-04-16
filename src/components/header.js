@@ -2,6 +2,14 @@ import { Component } from 'react';
 import { Container, Navbar } from 'react-bootstrap';
 
 class Header extends Component {
+
+  constructor(props) {
+    super(props);
+    this.state = {
+
+    };
+  }
+
   render() {
     return (
       <Navbar expand="lg" variant="light" bg="light" >
@@ -13,5 +21,6 @@ class Header extends Component {
     );
   }
 }
+
 
 export default Header;
